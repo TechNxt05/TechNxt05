@@ -36,7 +36,9 @@ A production-ready Retrieval Augmented Generation system designed to prevent hal
 - Project-level knowledge isolation & RBAC  
 - Explainable AI with source citations and similarity scores  
 - FastAPI + LangChain + PostgreSQL (pgvector) + Next.js  
-🔗 https://github.com/TechNxt05/RAGOps  
+
+🔗 GitHub: https://github.com/TechNxt05/RAGOps  
+🌐 Live Demo: https://ragops.vercel.app/  
 
 ---
 
@@ -45,7 +47,9 @@ An all-in-one platform that converts any URL into structured summaries, insights
 - Multi-method scraping (Static, Playwright, Selenium) with smart fallback  
 - LLM-powered summaries, entity extraction & RAG chat (FAISS)  
 - Modern Next.js 14 frontend with visual CSS selectors  
-🔗 https://github.com/TechNxt05/ScrapeAll  
+
+🔗 GitHub: https://github.com/TechNxt05/ScrapeAll  
+🌐 Live Demo: https://scrape-all.vercel.app/  
 
 ---
 
@@ -54,7 +58,8 @@ A deep learning system for cataract screening using smartphone images.
 - CNNs: MobileNetV2, VGG19, DenseNet121  
 - TensorFlow Lite optimization for low-latency mobile inference  
 - Published & presented at IEEE CCNCPS 2025  
-🔗 https://github.com/TechNxt05/Cvision  
+
+🔗 GitHub: https://github.com/TechNxt05/Cvision  
 
 ---
 
@@ -62,7 +67,9 @@ A deep learning system for cataract screening using smartphone images.
 A healthcare-focused AI platform combining vision models and LLMs.  
 - Symptom analysis, image-based diagnosis & medical report understanding  
 - Flask / FastAPI backend with real-time APIs  
-🔗 https://github.com/TechNxt05/Health_AI  
+
+🔗 GitHub: https://github.com/TechNxt05/Health_AI  
+🌐 Live Demo: https://health-ai-frontend-961v.onrender.com  
 
 ---
 
@@ -70,7 +77,9 @@ A healthcare-focused AI platform combining vision models and LLMs.
 A live cultural e-commerce platform built with Django & React.  
 - OTP/JWT authentication, Razorpay payments  
 - AWS EC2 + Nginx deployment  
-🔗 https://www.tribebharat.com  
+
+🌐 Website: https://www.tribebharat.com  
+
 
 ---
 
