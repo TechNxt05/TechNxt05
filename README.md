@@ -1,107 +1,265 @@
-# 👋 Hi, I'm Amritanshu Yadav
+<h1 align="center">Hi 👋, I'm Amritanshu Yadav</h1>
 
-🚀 Builder of real-world systems | Full-Stack Engineer | AI / LLM Systems Enthusiast  
-📍 IIIT Naya Raipur | B.Tech (ECE) | 2022–2026  
+<p align="center">
+AI Systems Engineer • Full Stack Developer • LLM & Agentic AI Enthusiast
+</p>
 
-I enjoy building **end-to-end products** that combine **web engineering, AI/ML, and LLM systems**, with a strong focus on **usability, scalability, and real-world impact**.
-
----
-
-## 🛠️ Tech Stack
-
-**Languages:**  
-Python, C++, JavaScript, TypeScript, Java  
-
-**Frontend:**  
-React.js, Next.js, Tailwind CSS  
-
-**Backend & APIs:**  
-Node.js, Express.js, Flask, FastAPI, Django  
-
-**AI / ML / LLMs:**  
-TensorFlow, PyTorch, Scikit-learn, HuggingFace Transformers, LangChain, LangGraph, LlamaIndex, Gemini API, LLM-based systems  
-
-**Databases & Vector Stores:**  
-PostgreSQL, MongoDB, MySQL, SQLite, Firebase, FAISS, pgvector  
-
-**DevOps & Tools:**  
-Git, GitHub, Docker, AWS EC2, Nginx, Vercel, Netlify, Jupyter, Colab, Postman  
+<p align="center">
+B.Tech (ECE) • IIIT Naya Raipur • 2022 – 2026
+</p>
 
 ---
 
-## 🌟 Featured Projects
+## 🚀 About Me
 
-### 🔹 **RAGOps – Enterprise-Grade RAG Platform**
-A production-ready Retrieval Augmented Generation system designed to prevent hallucinations and data leakage in LLM applications.  
-- Project-level knowledge isolation & RBAC  
-- Explainable AI with source citations and similarity scores  
-- FastAPI + LangChain + PostgreSQL (pgvector) + Next.js  
+I build **production-ready AI and full-stack systems** focused on reliability, scalability, and real-world usability.
 
-🔗 GitHub: https://github.com/TechNxt05/RAGOps  
-🌐 Live Demo: https://ragops.vercel.app/  
+My work sits at the intersection of:
 
----
+- LLM applications (RAG pipelines, agent workflows)
+- backend engineering (FastAPI, Node.js, Django)
+- AI system evaluation and observability
+- full-stack product development (React, Next.js)
+- deep learning & computer vision
 
-### 🔹 **ScrapeAll – Intelligent Web Scraping & AI Analysis Platform**
-An all-in-one platform that converts any URL into structured summaries, insights, and chat-ready knowledge bases.  
-- Multi-method scraping (Static, Playwright, Selenium) with smart fallback  
-- LLM-powered summaries, entity extraction & RAG chat (FAISS)  
-- Modern Next.js 14 frontend with visual CSS selectors  
-
-🔗 GitHub: https://github.com/TechNxt05/ScrapeAll  
-🌐 Live Demo: https://scrape-all.vercel.app/  
+I enjoy designing systems that **move beyond demos** — emphasizing structured outputs, explainability, and maintainable architecture.
 
 ---
 
-### 🔹 **Cvision – AI-Based Cataract Detection (IEEE Published)**
-A deep learning system for cataract screening using smartphone images.  
-- CNNs: MobileNetV2, VGG19, DenseNet121  
-- TensorFlow Lite optimization for low-latency mobile inference  
-- Published & presented at IEEE CCNCPS 2025  
+## 🧠 AI Systems Focus
 
-🔗 GitHub: https://github.com/TechNxt05/Cvision  
-
----
-
-### 🔹 **HealthAI – Multimodal Healthcare AI Platform**
-A healthcare-focused AI platform combining vision models and LLMs.  
-- Symptom analysis, image-based diagnosis & medical report understanding  
-- Flask / FastAPI backend with real-time APIs  
-
-🔗 GitHub: https://github.com/TechNxt05/Health_AI  
-🌐 Live Demo: https://health-ai-frontend-961v.onrender.com  
+- Retrieval Augmented Generation (RAG)
+- Agentic AI workflows (LangGraph)
+- LLM evaluation & reliability systems
+- Vector search systems (FAISS, pgvector)
+- Multi-agent orchestration pipelines
+- AI backend architecture (FastAPI)
+- Model observability and benchmarking
 
 ---
 
-### 🔹 **TribeBharat – Production E-commerce Platform**
-A live cultural e-commerce platform built with Django & React.  
-- OTP/JWT authentication, Razorpay payments  
-- AWS EC2 + Nginx deployment  
+## 🛠 Tech Stack
 
-🌐 Website: https://www.tribebharat.com  
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next JS](https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=nextdotjs)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss)
+
+### Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Node.js](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=nodedotjs)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+
+### AI / ML
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 
 ---
 
-## 🧠 What I’m Exploring Now
-- Agentic AI systems & multi-step reasoning workflows  
-- LLM reliability, RAG evaluation & explainability  
-- Scalable backend architectures for AI-powered products  
+# ⭐ Featured Projects
 
 ---
 
-## 📚 Highlights
-- 📄 **IEEE Research Publication** – *Cvision: A Deep Learning Framework for Cataract Detection using Smartphone*  
-- 🏆 **Smart India Hackathon (2023 & 2024)** – Team Lead (Healthcare & Legal AI systems)  
-- 🧠 Built multiple **LLM-powered platforms, agents, and RAG pipelines** used in real-world scenarios  
+## 🛡 AuditAI — AI Reliability & Evaluation Platform
+
+Production-grade observability and evaluation toolkit for LLM applications, RAG pipelines, and multi-agent workflows.
+
+Key Features:
+
+- deterministic hallucination detection and faithfulness scoring
+- adversarial prompt injection stress testing
+- execution trace monitoring for LLM pipelines
+- reliability scoring across 5 evaluation dimensions
+- replay engine for comparing model performance
+
+Tech:
+
+FastAPI • PostgreSQL • pgvector • Next.js • Docker • TF-IDF • similarity scoring
+
+GitHub:
+https://github.com/TechNxt05/AuditAI
 
 ---
 
-## 📫 Let’s Connect
-- 🌐 Portfolio: https://portfolio-m1lh.onrender.com/  
-- 🔗 LinkedIn: https://www.linkedin.com/in/amritanshu-yadav-6480662a8/  
-- 💌 Email: amritanshuy0503@gmail.com  
+## 🔎 RAGOps — Enterprise RAG Platform
+
+Full-stack Retrieval Augmented Generation system with structured document ingestion and explainable responses.
+
+Key Features:
+
+- project-level knowledge isolation
+- vector similarity search using pgvector
+- chunking pipeline with context preservation
+- source-grounded responses with citation traces
+- scalable FastAPI backend architecture
+
+Tech:
+
+FastAPI • LangChain • PostgreSQL • Next.js • embeddings
+
+GitHub:
+https://github.com/TechNxt05/RAGOps
+
+Live:
+https://ragops.vercel.app/
 
 ---
 
-> *I like building things that actually get used — learning by shipping, iterating, and solving real problems.*
+## 🤖 CyberGuardAI — Multi-Agent Cybercrime Resolution Platform
+
+Agentic AI system designed to guide users through cyber fraud scenarios with structured reasoning workflows.
+
+Key Features:
+
+- multi-agent orchestration using LangGraph
+- structured reasoning pipelines
+- contextual workflow guidance for fraud recovery
+- explainable outputs with source grounding
+- tool-augmented reasoning agents
+
+Tech:
+
+LangGraph • FastAPI • Python • multi-agent workflows
+
+GitHub:
+https://github.com/TechNxt05/CyberGuard
+
+Live:
+https://cyber-guard-liard.vercel.app/
+
+---
+
+## 🛒 TribeBharat — Production E-commerce Platform
+
+Live full-stack cultural e-commerce platform deployed for real users and real payments.
+
+Key Features:
+
+- JWT authentication and OTP login
+- variant-level inventory system
+- Razorpay payment integration
+- AWS EC2 deployment with Nginx
+- scalable REST API architecture
+
+Tech:
+
+React • Django • PostgreSQL • AWS EC2
+
+Live:
+https://www.tribebharat.com
+
+---
+
+## 👁 Cvision — AI Cataract Detection (IEEE Published)
+
+Deep learning system for cataract detection using smartphone images.
+
+Key Features:
+
+- CNN architectures (DenseNet121, MobileNetV2, VGG19)
+- TensorFlow Lite optimization for mobile inference
+- dataset preprocessing and augmentation pipeline
+- 95%+ classification accuracy
+- IEEE research publication
+
+GitHub:
+https://github.com/TechNxt05/Cvision
+
+---
+
+## 🌐 ScrapeAll — Intelligent Web Scraping Platform
+
+Automated web scraping system with LLM-powered analysis and structured output generation.
+
+Key Features:
+
+- multi-strategy scraping (Playwright, Selenium, static parsing)
+- fallback scraping logic
+- RAG-based knowledge extraction
+- structured summaries and entity extraction
+
+Tech:
+
+Next.js • Python • FAISS • LLM pipelines
+
+GitHub:
+https://github.com/TechNxt05/ScrapeAll
+
+Live:
+https://scrape-all.vercel.app/
+
+---
+
+## 🧑‍⚕️ HealthAI — Multimodal Healthcare AI System
+
+AI-powered healthcare platform combining vision models and LLM-based reasoning.
+
+Key Features:
+
+- symptom understanding using LLM pipelines
+- image-based diagnostic workflows
+- FastAPI backend for real-time inference
+- multimodal reasoning architecture
+
+GitHub:
+https://github.com/TechNxt05/Health_AI
+
+---
+
+# 📚 Research & Achievements
+
+- IEEE Publication:
+Cvision — Deep Learning Framework for Cataract Detection
+- Smart India Hackathon Finalist
+- Built multiple production-ready AI systems and full-stack platforms
+- Amazon ML Summer School 2025
+
+---
+
+# 🌱 Currently Exploring
+
+- LLM evaluation systems
+- agentic AI architectures
+- scalable backend systems for AI products
+- reliability engineering for GenAI applications
+
+---
+
+# 🔗 Connect With Me
+
+Portfolio:
+https://portfolio-six-orcin-80f1sxykyy.vercel.app/
+
+LinkedIn:
+https://www.linkedin.com/in/amritanshu-yadav-6480662a8/
+
+GitHub:
+https://github.com/TechNxt05
+
+Email:
+amritanshuy0503@gmail.com
+
+---
+
+⭐ I enjoy building systems that solve real problems and continuously improving through iteration and experimentation.
