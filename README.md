@@ -73,9 +73,7 @@ I enjoy designing systems that **move beyond demos** — emphasizing structured 
 
 Production-grade observability and evaluation toolkit for LLM applications, RAG pipelines, and multi-agent workflows.
 
-Tech:
-
-FastAPI • PostgreSQL • pgvector • Next.js • Docker • TF-IDF • similarity scoring
+Tech: FastAPI • PostgreSQL • pgvector • Next.js • Docker • TF-IDF • similarity scoring
 
 GitHub:
 https://github.com/TechNxt05/AuditAI
@@ -86,13 +84,10 @@ https://github.com/TechNxt05/AuditAI
 
 Full-stack Retrieval Augmented Generation system with structured document ingestion and explainable responses.
 
-Tech:
-
-FastAPI • LangChain • PostgreSQL • Next.js • embeddings
+Tech: FastAPI • LangChain • PostgreSQL • Next.js • embeddings
 
 GitHub:
 https://github.com/TechNxt05/RAGOps
-
 Live:
 https://ragops.vercel.app/
 
@@ -102,13 +97,10 @@ https://ragops.vercel.app/
 
 Agentic AI system designed to guide users through cyber fraud scenarios with structured reasoning workflows.
 
-Tech:
-
-LangGraph • FastAPI • Python • multi-agent workflows
+Tech: LangGraph • FastAPI • Python • multi-agent workflows
 
 GitHub:
 https://github.com/TechNxt05/CyberGuard
-
 Live:
 https://cyber-guard-liard.vercel.app/
 
@@ -118,9 +110,7 @@ https://cyber-guard-liard.vercel.app/
 
 Live full-stack cultural e-commerce platform deployed for real users and real payments.
 
-Tech:
-
-React • Django • PostgreSQL • AWS EC2
+Tech: React • Django • PostgreSQL • AWS EC2
 
 Live:
 https://www.tribebharat.com
@@ -140,24 +130,13 @@ https://github.com/TechNxt05/Cvision
 
 Automated web scraping system with LLM-powered analysis and structured output generation.
 
-Tech:
-
-Next.js • Python • FAISS • LLM pipelines
+Tech: Next.js • Python • FAISS • LLM pipelines
 
 GitHub:
 https://github.com/TechNxt05/ScrapeAll
 
 Live:
 https://scrape-all.vercel.app/
-
----
-
-## 🧑‍⚕️ HealthAI — Multimodal Healthcare AI System
-
-AI-powered healthcare platform combining vision models and LLM-based reasoning.
-
-GitHub:
-https://github.com/TechNxt05/Health_AI
 
 ---
 
