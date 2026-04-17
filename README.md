@@ -26,18 +26,6 @@ I enjoy designing systems that **move beyond demos** — emphasizing structured 
 
 ---
 
-## 🧠 AI Systems Focus
-
-- Retrieval Augmented Generation (RAG)
-- Agentic AI workflows (LangGraph)
-- LLM evaluation & reliability systems
-- Vector search systems (FAISS, pgvector)
-- Multi-agent orchestration pipelines
-- AI backend architecture (FastAPI)
-- Model observability and benchmarking
-
----
-
 ## 🛠 Tech Stack
 
 ### Languages
@@ -85,14 +73,6 @@ I enjoy designing systems that **move beyond demos** — emphasizing structured 
 
 Production-grade observability and evaluation toolkit for LLM applications, RAG pipelines, and multi-agent workflows.
 
-Key Features:
-
-- deterministic hallucination detection and faithfulness scoring
-- adversarial prompt injection stress testing
-- execution trace monitoring for LLM pipelines
-- reliability scoring across 5 evaluation dimensions
-- replay engine for comparing model performance
-
 Tech:
 
 FastAPI • PostgreSQL • pgvector • Next.js • Docker • TF-IDF • similarity scoring
@@ -105,14 +85,6 @@ https://github.com/TechNxt05/AuditAI
 ## 🔎 RAGOps — Enterprise RAG Platform
 
 Full-stack Retrieval Augmented Generation system with structured document ingestion and explainable responses.
-
-Key Features:
-
-- project-level knowledge isolation
-- vector similarity search using pgvector
-- chunking pipeline with context preservation
-- source-grounded responses with citation traces
-- scalable FastAPI backend architecture
 
 Tech:
 
@@ -130,14 +102,6 @@ https://ragops.vercel.app/
 
 Agentic AI system designed to guide users through cyber fraud scenarios with structured reasoning workflows.
 
-Key Features:
-
-- multi-agent orchestration using LangGraph
-- structured reasoning pipelines
-- contextual workflow guidance for fraud recovery
-- explainable outputs with source grounding
-- tool-augmented reasoning agents
-
 Tech:
 
 LangGraph • FastAPI • Python • multi-agent workflows
@@ -154,14 +118,6 @@ https://cyber-guard-liard.vercel.app/
 
 Live full-stack cultural e-commerce platform deployed for real users and real payments.
 
-Key Features:
-
-- JWT authentication and OTP login
-- variant-level inventory system
-- Razorpay payment integration
-- AWS EC2 deployment with Nginx
-- scalable REST API architecture
-
 Tech:
 
 React • Django • PostgreSQL • AWS EC2
@@ -175,14 +131,6 @@ https://www.tribebharat.com
 
 Deep learning system for cataract detection using smartphone images.
 
-Key Features:
-
-- CNN architectures (DenseNet121, MobileNetV2, VGG19)
-- TensorFlow Lite optimization for mobile inference
-- dataset preprocessing and augmentation pipeline
-- 95%+ classification accuracy
-- IEEE research publication
-
 GitHub:
 https://github.com/TechNxt05/Cvision
 
@@ -191,13 +139,6 @@ https://github.com/TechNxt05/Cvision
 ## 🌐 ScrapeAll — Intelligent Web Scraping Platform
 
 Automated web scraping system with LLM-powered analysis and structured output generation.
-
-Key Features:
-
-- multi-strategy scraping (Playwright, Selenium, static parsing)
-- fallback scraping logic
-- RAG-based knowledge extraction
-- structured summaries and entity extraction
 
 Tech:
 
@@ -214,13 +155,6 @@ https://scrape-all.vercel.app/
 ## 🧑‍⚕️ HealthAI — Multimodal Healthcare AI System
 
 AI-powered healthcare platform combining vision models and LLM-based reasoning.
-
-Key Features:
-
-- symptom understanding using LLM pipelines
-- image-based diagnostic workflows
-- FastAPI backend for real-time inference
-- multimodal reasoning architecture
 
 GitHub:
 https://github.com/TechNxt05/Health_AI
